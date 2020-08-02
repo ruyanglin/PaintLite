@@ -12,7 +12,7 @@ import java.util.ArrayList;
 import java.util.Optional;
 
 
-public class SketchIt extends Application {
+public class PaintLite extends Application {
     Model model = new Model();
 
     @Override
@@ -67,7 +67,7 @@ public class SketchIt extends Application {
 
         Scene scene = new Scene(root, Constants.INIT_SCREEN_WIDTH, Constants.INIT_SCREEN_HEIGHT);
         stage.setScene(scene);
-        stage.setTitle("SketchIt");
+        stage.setTitle("PaintLite");
         stage.show();
     }
 

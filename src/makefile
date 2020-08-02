@@ -1,4 +1,4 @@
-export FILENAME=SketchIt
+export FILENAME=PaintLite
 export JAVA_FX_HOME='/usr/local/lib/javafx/javafx-sdk-11.0.2'
 
 default:
