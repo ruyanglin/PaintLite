@@ -2,6 +2,8 @@
 # Paint Lite
 Simple Java based paint application that allows users to draw free flowing lines, shapes and colours. Standard Cut/Copy/Paste operations are available.
 
+![Paint Lite](/PaintLite.png)
+
 Upon saving, the objects on the canvas are serialized into the file.
 
 ## Requirements
